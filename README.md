@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/337c3d63-603f-4d8e-a5c3-82e5ec629bda/deploy-status)](https://app.netlify.com/sites/sprightly-gnome-ad2da2/deploys)
+![build](https://github.com/ayushdhar/react-canary/actions/workflows/development.yml/badge.svg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
