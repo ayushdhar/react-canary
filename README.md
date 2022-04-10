@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/337c3d63-603f-4d8e-a5c3-82e5ec629bda/deploy-status)](https://app.netlify.com/sites/sprightly-gnome-ad2da2/deploys)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ![build](https://github.com/ayushdhar/react-canary/actions/workflows/development.yml/badge.svg)
 # Getting Started with Create React App
 
