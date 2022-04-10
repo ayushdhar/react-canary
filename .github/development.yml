@@ -4,9 +4,9 @@ name: Development workflow
 # When workflow is triggered
 on:
   push:
-    branches: [ master ]
+    branches: [main]
   pull_request:
-    branches: [ master ]
+    branches: [main]
 
 # Jobs to carry out
 jobs:
